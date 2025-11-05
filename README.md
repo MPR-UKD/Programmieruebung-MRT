@@ -1,7 +1,7 @@
 # Programmierübung MRT
 Leitlinien für den Einstieg in die Bearbeitung der Programmierübungen zur Vorlesung *MRT: Bilderzeugung, Bildrekonstruktion, Bildverarbeitung*.
 
-Es gibt eine Vielzahl an Wegen Python zu nutzen welche häufig ihre ganz eigenen Vorteile bringen. Diese Anleitung ist als Hilfe gedacht um einen Einstieg so einfach wie möglich zu machen mti der sehr verbreiteten Programmierumgebung Visual Studio Code. 
+Für die Übungen wird die Programmiersprache Python genutzt. Es gibt eine Vielzahl an Wegen Python zu nutzen welche häufig ihre ganz eigenen Vorteile bringen. Es steht Ihnen frei in welcher Umgebung Sie ihre Skripte zur Bearbeitung der Aufgaben schreiben. Diese Anleitung ist als Hilfe gedacht um einen Einstieg in die verbreitete Programmierumgebung Visual Studio Code so einfach wie möglich zu machen.   
 
 ## Setup von Visual Studio Code:
 Folgen Sie diesen Schritten um die Programmierumgebung Visual Studio Code einzurichten:
