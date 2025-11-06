@@ -8,7 +8,7 @@ Datum:          06.11.2025
 """
 
 import math
-
+import random
 
 # example functions
 def my_function_name():
@@ -41,4 +41,4 @@ if __name__ == "__main__":
     random_number = random.randint(1, 20)
     my_while_loop_function(random_number)
     result = my_return_function(42)
-    print(f"The answer to life, the universe and everything is: {result}")
+    print(f"The returned value is: {result}")
