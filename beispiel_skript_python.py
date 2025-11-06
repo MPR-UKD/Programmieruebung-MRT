@@ -33,7 +33,7 @@ Notizen:
 
 ================================================================================
 """
-
+import random
 import math
 
 
@@ -51,6 +51,7 @@ def my_for_loop_function(number_of_runs=3):
 
 def my_while_loop_function(random_number):
     """Simple while loop example."""
+    print(f"You selected number {random_number}. Now reducing it by pi until it reaches zero.")
     while random_number > 0:
         print(f"Reducing your number by pi. Currently at: {random_number}")
         random_number -= math.pi
@@ -59,3 +60,13 @@ def my_while_loop_function(random_number):
 def my_return_function(a):
     """Simple return example"""
     return a
+
+
+if __name__ == "__main__":
+    # call example functions
+    my_function_name()
+    my_for_loop_function(5)
+    random_number = random.randint(1, 20)
+    my_while_loop_function(random_number)
+    result = my_return_function(42)
+    print(f"The answer to life, the universe and everything is: {result}")
